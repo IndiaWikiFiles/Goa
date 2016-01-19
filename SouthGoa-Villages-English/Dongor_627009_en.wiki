@@ -9,22 +9,22 @@
 |subdivision_type2=[[South Goa]]
 |subdivision_type3=[[Sanguem]]
 |Nearest city=[[SANGUEM]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=                                     
-|| longd = xx | longm = xx | longs = xx | longEW = E=                                                                                                                                               
+|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
+|| longd = xx | longm = xx | longs = xx | longEW = E=
 |pushpin_label_position=right
 |Area=7.89
 |elevation_m=
-|population_total=39                                                                                                                                                                                                                       
+|population_total=39
 |population_as_of=2011
 |population_density=4
 |population_blank1=13
 |population_blank2=26
 |female_per_1000_male=2000
-|native_name_lang=[[Konkani, Marathi]]
-}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+|native_name_lang=[[Konkani,Marathi]]
+}}
 
 == Dongor (627009) ==
-      
+
 Dongor is a village in the [[Sanguem]] taluka of [[South Goa]] district with an area of 789 hectares and harbouring 7 households with total population of 39 as per the 2011 Census. The nearest town [[SANGUEM]] is at a distance of 18 km. Male population is 13 and female population is 26. Scheduled Caste Population is 0 and Scheduled Tribes population is 4. Census Location Code of the village is 627009<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
 
@@ -62,8 +62,8 @@ The nearest Alternative medicine hospital is at a distance of more than 10 km fr
 The nearest Dispensary is at a distance of 5 to 10 km from the village.
 The nearest Veterinary hospital is at a distance of 5 to 10 km from the village.
 
-The nearest Family welfare centre is at a distance of 5 to 10 km from the village.                  
-                                                      
+The nearest Family welfare centre is at a distance of 5 to 10 km from the village.
+
 
 == Medical Facilities (Non-Government) ==
 
@@ -74,7 +74,7 @@ The nearest Family welfare centre is at a distance of 5 to 10 km from the villag
 
 
 
-                                                                        
+
 
 
 == Drinking Water ==
@@ -109,7 +109,7 @@ Post & Telegraph office  is not available in the village.The nearest Post & Tele
 Village [[pin code]] is 403704  in the village.
 Telephones (Land lines) is not available in the village.The nearest Telephones (Land lines) is at a distance of less than 5 km from the village.
 Public call office is not available in the village.The nearest Public call office is at a distance of 5 to 10 km from the village.
-Mobile phone coverage is available in the village. 
+Mobile phone coverage is available in the village.
 Internet cafes / Common service centre is not available in the village.The nearest Internet cafes / Common service centre is at a distance of more than 10 km from the village.
 Private courier is not available in the village.The nearest Private courier is at a distance of more than 10 km from the village.
 Public bus service is not available in the village.The nearest Public bus service is at a distance of less than 5 km from the village.
@@ -118,20 +118,20 @@ Private bus service is not available in the village.The nearest Private bus serv
 Auto/Modified Auto is not available in the village.The nearest Auto/Modified Auto is at a distance of more than 10 km from the village.
 Taxi is not available in the village.The nearest Taxi is at a distance of more than 10 km from the village.
 Van is not available in the village.The nearest Van is at a distance of more than 10 km from the village.
-Tractor is not available in the village. 
-Cycle-pulled rickshaw (Manual driven) is not available in the village. 
-Cycle-pulled rickshaw (Machine driven) is not available in the village. 
-Carts driven by animals is not available in the village. 
+Tractor is not available in the village.
+Cycle-pulled rickshaw (Manual driven) is not available in the village.
+Cycle-pulled rickshaw (Machine driven) is not available in the village.
+Carts driven by animals is not available in the village.
 Sea /River ferry service is not available in the village.The nearest Sea /River ferry service is at a distance of more than 10 km from the village.
 Village is not connected to a [[national highway]]Village is not connected to a The nearest [[national highway]] is at a distance of more than 10 km from the village.
 Village is not connected to a [[state highway]]Village is not connected to a The nearest [[state highway]] is at a distance of more than 10 km from the village.
 Village is not connected to a major district road  Village is not connected to a The nearest major district road   is at a distance of less than 5 km from the village.
 Village is not connected to a other district roadVillage is not connected to a The nearest other district road is at a distance of less than 5 km from the village.
- The nearest black topped (pucca) road is at a distance of less than 5 km from the village.
-  
-  
- The nearest Navigable waterway is at a distance of more than 10 km from the village.
-  
+The nearest black topped (pucca) road is at a distance of less than 5 km from the village.
+
+
+The nearest Navigable waterway is at a distance of more than 10 km from the village.
+
 
 
 == Market and Banking ==
@@ -149,8 +149,8 @@ Agricultural marketing society is not available in the village.The nearest Agric
 == Health & Nutrition & Entertainment Amenities ==
 Integrated Child Development Scheme (Nutritional Centre) is not available in the village.The nearest Integrated Child Development Scheme (Nutritional Centre) is at a distance of more than 10 km from the village.
 Anganwadi Centre (Nutritional Centre) is not available in the village.The nearest Anganwadi Centre (Nutritional Centre) is at a distance of less than 5 km from the village.
-Others (Nutritional Centre) is available in the village. 
-ASHA (Accredited Social Health Activist is available in the village. 
+Others (Nutritional Centre) is available in the village.
+ASHA (Accredited Social Health Activist is available in the village.
 Community centre with/without TV  facility is not available in the village.The nearest Community centre with/without TV  facility is at a distance of more than 10 km from the village.
 Sports Field is not available in the village.The nearest Sports Field is at a distance of more than 10 km from the village.
 Sports Club / Recreation Centre is not available in the village.The nearest Sports Club / Recreation Centre is at a distance of 5 to 10 km from the village.
@@ -207,6 +207,6 @@ Dongor is engaged in the manufacture of following items (in decreasing order of 
 
 
 == References ==
-Census of India 2011 - http://www.censusindia.gov.in/2011census/dchb/DCHB.html 
+{{Reflist}}
 
 
